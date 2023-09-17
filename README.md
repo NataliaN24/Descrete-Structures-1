@@ -1,7 +1,7 @@
 # Descrete-Structures-1
 These are all exercises solved during the subject DSTR at faculty of mathematics and infromatics at Sofia University st.Kliment Ohridski.
 
-*Table of contents:*
+**Table of contents:**
 
 1._Sets_
 
